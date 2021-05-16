@@ -1,5 +1,3 @@
-# Markus Peitl's GitHub Projects
-
 <meta name="google-site-verification" content="wozCgLuxEv4W1C-WOL4C-nT4Axl96EPX-0Zx_7HApT8" />
 
 [rnmd - markdown execution runtime](https://github.com/MarkusPeitl/rnmd/)  
@@ -23,7 +21,7 @@ Is a highly performant windows UWP mind mapping application also available on th
 As this was very quickly built it is not the best example of software engineering.
 Therefore this project is depreciated and i started to reimplement a similar application with Angular and Nodejs.
 
-## Collection of Guides for Configuring Debian Linux
+# Collection of Guides for Configuring Debian Linux
 
 [Copying files using a ssh connection](./my-linux-scripts/copying-files-ssh.html)  
 [Creating and configuring an SSH server on debian](./my-linux-scripts/create-ssh-server.html)  
