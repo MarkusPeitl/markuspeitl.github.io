@@ -1,5 +1,7 @@
 # Markus Peitl's GitHub Projects
 
+<meta name="google-site-verification" content="wozCgLuxEv4W1C-WOL4C-nT4Axl96EPX-0Zx_7HApT8" />
+
 [rnmd - markdown execution runtime](https://github.com/MarkusPeitl/rnmd/)  
 
 **rnmd** is a markdown execution runtime which can be used to run code contained inside of a markdown file.
