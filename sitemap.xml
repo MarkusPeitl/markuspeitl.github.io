@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9             http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
+
+<url>
+  <loc>https://markuspeitl.github.io/</loc>
+  <lastmod>2021-05-16T16:59:11+00:00</lastmod>
+  <priority>1.00</priority>
+</url>
+<url>
+  <loc>https://markuspeitl.github.io/my-linux-scripts/copying-files-ssh.html</loc>
+  <lastmod>2021-05-06T18:21:25+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://markuspeitl.github.io/my-linux-scripts/create-ssh-server.html</loc>
+  <lastmod>2021-05-06T18:21:25+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://markuspeitl.github.io/my-linux-scripts/new-server-setup-ubuntu.html</loc>
+  <lastmod>2021-05-06T18:21:25+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://markuspeitl.github.io/my-linux-scripts/limiting-cpu-load-processes.html</loc>
+  <lastmod>2021-05-06T18:21:25+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://markuspeitl.github.io/my-linux-scripts/switching-shells.html</loc>
+  <lastmod>2021-05-06T18:21:25+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://markuspeitl.github.io/my-linux-scripts/configure-network-drive.txt</loc>
+  <lastmod>2021-05-06T18:21:14+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://markuspeitl.github.io/my-linux-scripts/termux-tricks.txt</loc>
+  <lastmod>2021-05-06T18:21:14+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://markuspeitl.github.io/my-linux-scripts/installing-sound-drivers-us.txt</loc>
+  <lastmod>2021-05-06T18:21:14+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+
+</urlset>
