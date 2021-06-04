@@ -26,6 +26,7 @@ Therefore this project is depreciated and i started to reimplement a similar app
 [First time serve setup - clean ubunutu vps](./my-linux-scripts/new-server-setup-ubuntu.html)  
 [Limiting the cpu load of processes](./my-linux-scripts/limiting-cpu-load-processes.html)  
 [Temporarily or permanently switch your defaul shell (bash, zsh, etc.)](./my-linux-scripts/switching-shells.html)  
+[Install an AppImage to your system including Desktop link](./my-linux-scripts/install-appimage.html)  
 [Mounting a smb network drive](./my-linux-scripts/configure-network-drive.txt)  
 [Configuring ssh server on termux](./my-linux-scripts/termux-tricks.txt)  
 [Installing sound drivers on Ubuntu Server](./my-linux-scripts/installing-sound-drivers-us.txt)  
